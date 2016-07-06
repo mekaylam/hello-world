@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+First day on GitHub!
 
 Hello! My name is Mekayla and I am in the GWC Summer Immersion Program. 
